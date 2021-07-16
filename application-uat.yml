@@ -1,6 +1,6 @@
 server:
-  port: 8888
+  port: 6666
 
 spring:
   application:
-    name: application-dev
+    name: application-uat
